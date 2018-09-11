@@ -4,6 +4,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ConcatenateString {
+	
+	//30. Substring with Concatenation of All Words
+	//https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/
 
 	List<StringBuffer> concatenatedStr = new ArrayList<>();
 	

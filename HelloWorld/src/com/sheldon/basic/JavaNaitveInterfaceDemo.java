@@ -2,6 +2,8 @@ package com.sheldon.basic;
 
 public class JavaNaitveInterfaceDemo {
 
+	//Haven't Done
+	
 	static {
 		System.loadLibrary("HelloNayive");
 	}
