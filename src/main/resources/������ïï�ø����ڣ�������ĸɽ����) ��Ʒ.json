@@ -1,0 +1,96 @@
+{
+  "header": [
+    [
+      "gift_id",
+      "gift_rule_id",
+      "name",
+      "model",
+      "sale_price",
+      "settlement_price",
+      "discount_rate",
+      "gift_remark",
+      "pic_url",
+      "is_deleted",
+      "create_time",
+      "update_time",
+      "remark"
+    ]
+  ],
+  "data": [
+    {
+      "gift_id": 14,
+      "gift_rule_id": 100001,
+      "name": "华帝刀具菜板九件套",
+      "model": "D660",
+      "sale_price": 499,
+      "settlement_price": 135,
+      "discount_rate": 0.2705,
+      "gift_remark": "null",
+      "pic_url": "https://oss-public.fangdd.com/prod/jinyiyun/supplychain/FuX7Km9dNMHnfN_BuRFuIZbTFRPH.png?e=1610453284&token=qE9bPqVcqrjIEFEt6ghtRXa5LVNHMD2POg6XITtf:gazmWuJ4cYeQ1W3KwlX7ejyp9m4=",
+      "is_deleted": 0,
+      "create_time": "2021-01-12 19:51:31",
+      "update_time": "2021-01-12 19:51:31",
+      "remark": ""
+    },
+    {
+      "gift_id": 15,
+      "gift_rule_id": 100001,
+      "name": "华帝水龙头一体净化器",
+      "model": "JSLT-01L",
+      "sale_price": 199,
+      "settlement_price": 108,
+      "discount_rate": 0.5427,
+      "gift_remark": "null",
+      "pic_url": "https://oss-public.fangdd.com/prod/jinyiyun/supplychain/FhPhrsj2Y24vmkhZRd3foBpC0jbU.png?e=1610453284&token=qE9bPqVcqrjIEFEt6ghtRXa5LVNHMD2POg6XITtf:nkel_FZX8EKUxcaq2tFB_UtiUFM=",
+      "is_deleted": 0,
+      "create_time": "2021-01-12 19:51:31",
+      "update_time": "2021-01-12 19:51:31",
+      "remark": ""
+    },
+    {
+      "gift_id": 16,
+      "gift_rule_id": 100001,
+      "name": "美菱蒸汽清洁机",
+      "model": "ML-BLC100",
+      "sale_price": 998,
+      "settlement_price": 278,
+      "discount_rate": 0.2786,
+      "gift_remark": "null",
+      "pic_url": "https://oss-public.fangdd.com/prod/jinyiyun/supplychain/FoBI00eSBKzLL7TxSb4i_HRt5efd.png?e=1610453284&token=qE9bPqVcqrjIEFEt6ghtRXa5LVNHMD2POg6XITtf:rvPswX3HfgTKC9v3ymwnyDqtaFk=",
+      "is_deleted": 0,
+      "create_time": "2021-01-12 19:51:31",
+      "update_time": "2021-01-12 19:51:31",
+      "remark": ""
+    },
+    {
+      "gift_id": 17,
+      "gift_rule_id": 100001,
+      "name": "美菱挂烫机",
+      "model": "MG-926",
+      "sale_price": 1099,
+      "settlement_price": 320,
+      "discount_rate": 0.2912,
+      "gift_remark": "null",
+      "pic_url": "https://oss-public.fangdd.com/prod/jinyiyun/supplychain/FuQvcsp0t3D0xXCXQaRPGvf2jQlW.png?e=1610453284&token=qE9bPqVcqrjIEFEt6ghtRXa5LVNHMD2POg6XITtf:YQX61GyoGzu8A61cD2Dw6cD7OCA=",
+      "is_deleted": 0,
+      "create_time": "2021-01-12 19:51:31",
+      "update_time": "2021-01-12 19:51:31",
+      "remark": ""
+    },
+    {
+      "gift_id": 18,
+      "gift_rule_id": 100001,
+      "name": "美菱空气净化器",
+      "model": "MG-926",
+      "sale_price": 1799,
+      "settlement_price": 650,
+      "discount_rate": 0.3613,
+      "gift_remark": "null",
+      "pic_url": "https://oss-public.fangdd.com/prod/jinyiyun/supplychain/FsinmcF4bJKr7UkBAhl_uIUKaUmN.png?e=1610453284&token=qE9bPqVcqrjIEFEt6ghtRXa5LVNHMD2POg6XITtf:xuAQafqQw2yEofV5IunCy273gRI=",
+      "is_deleted": 0,
+      "create_time": "2021-01-12 19:51:31",
+      "update_time": "2021-01-12 19:51:31",
+      "remark": ""
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "header": [
+    [
+      "bonus_rule_id",
+      "city_code",
+      "city_name",
+      "project_id",
+      "project_name",
+      "bonus_amount",
+      "start_time",
+      "end_time",
+      "bonus_quantity",
+      "used_bonus_quantity",
+      "enable",
+      "remark",
+      "is_deleted",
+      "create_time",
+      "update_time"
+    ]
+  ],
+  "data": [
+    {
+      "bonus_rule_id": 1000,
+      "city_code": 1304,
+      "city_name": "邯郸市",
+      "project_id": 15,
+      "project_name": "深圳第五个项目",
+      "bonus_amount": 1,
+      "start_time": "2020-12-17",
+      "end_time": "2021-03-31",
+      "bonus_quantity": 8,
+      "used_bonus_quantity": 7,
+      "enable": 1,
+      "remark": "null",
+      "is_deleted": 0,
+      "create_time": "2020-12-17 09:46:53",
+      "update_time": "2021-03-05 16:49:50"
+    },
+    {
+      "bonus_rule_id": 1001,
+      "city_code": 1304,
+      "city_name": "邯郸市",
+      "project_id": 15,
+      "project_name": "深圳第五个项目",
+      "bonus_amount": 1000,
+      "start_time": "2020-12-17",
+      "end_time": "2020-12-17",
+      "bonus_quantity": 4,
+      "used_bonus_quantity": 0,
+      "enable": 0,
+      "remark": "null",
+      "is_deleted": 0,
+      "create_time": "2020-12-17 11:21:21",
+      "update_time": "2020-12-17 11:21:51"
+    },
+    {
+      "bonus_rule_id": 1002,
+      "city_code": 1410,
+      "city_name": "临汾市",
+      "project_id": 21,
+      "project_name": "一点五版本项目",
+      "bonus_amount": 1,
+      "start_time": "2020-12-08",
+      "end_time": "2020-12-31",
+      "bonus_quantity": 2,
+      "used_bonus_quantity": 2,
+      "enable": 1,
+      "remark": "null",
+      "is_deleted": 0,
+      "create_time": "2020-12-17 15:29:06",
+      "update_time": "2020-12-22 17:44:58"
+    }
+  ]
+}

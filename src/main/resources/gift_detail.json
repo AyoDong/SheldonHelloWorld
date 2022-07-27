@@ -1,0 +1,65 @@
+{
+  "header": [
+    [
+      "gift_id",
+      "project_id",
+      "project_name",
+      "user_id",
+      "customer_name",
+      "mobile",
+      "receive_time",
+      "address",
+      "is_deleted",
+      "create_time",
+      "update_time",
+      "remark"
+    ]
+  ],
+  "data": [
+    {
+      "gift_id": 5,
+      "gift_rule_id": 10000,
+      "name": "云南一辈子游",
+      "model": "10010",
+      "sale_price": 200.0,
+      "settlement_price": 80.0,
+      "discount_rate": 0.4,
+      "gift_remark": "就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛就问你牛不牛",
+      "pic_url": "",
+      "is_deleted": "0",
+      "create_time": "2021-01-08 11:19:57",
+      "update_time": "2021-01-08 11:19:57",
+      "remark": ""
+    },
+    {
+      "gift_id": 6,
+      "gift_rule_id": 10000,
+      "name": "美国半日游",
+      "model": "10086",
+      "sale_price": 100.0,
+      "settlement_price": 60.0,
+      "discount_rate": 0.6,
+      "gift_remark": "哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈",
+      "pic_url": "",
+      "is_deleted": "0",
+      "create_time": "2021-01-08 11:19:57",
+      "update_time": "2021-01-08 11:19:57",
+      "remark": ""
+    },
+    {
+      "gift_id": 7,
+      "gift_rule_id": 10000,
+      "name": "入职金蚁云",
+      "model": "NULL",
+      "sale_price": 50.0,
+      "settlement_price": 0.0,
+      "discount_rate": 0.0,
+      "gift_remark": null,
+      "pic_url": "",
+      "is_deleted": "0",
+      "create_time": "2021-01-08 11:19:57",
+      "update_time": "2021-01-08 11:19:57",
+      "remark": ""
+    }
+  ]
+}
