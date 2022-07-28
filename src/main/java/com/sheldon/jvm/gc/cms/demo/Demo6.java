@@ -1,4 +1,4 @@
-package com.sheldon.jvm.gc.demo;
+package com.sheldon.jvm.gc.cms.demo;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.sheldon.jvm.gc;
+package com.sheldon.jvm.gc.cms;
 
 import net.sf.cglib.proxy.Enhancer;
 import net.sf.cglib.proxy.MethodInterceptor;

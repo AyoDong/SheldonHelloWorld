@@ -1,4 +1,4 @@
-package com.sheldon.jvm.gc;
+package com.sheldon.jvm.gc.cms;
 
 /**
  * @author fangxiaodong

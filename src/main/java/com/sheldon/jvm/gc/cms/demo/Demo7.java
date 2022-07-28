@@ -1,6 +1,6 @@
-package com.sheldon.jvm.gc.demo;
+package com.sheldon.jvm.gc.cms.demo;
 
-import com.sheldon.jvm.gc.Garbage;
+import com.sheldon.jvm.gc.cms.Garbage;
 
 import java.util.ArrayList;
 import java.util.List;
