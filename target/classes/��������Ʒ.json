@@ -1,0 +1,81 @@
+{
+  "header": [
+    [
+      "gift_id",
+      "gift_rule_id",
+      "name",
+      "model",
+      "sale_price",
+      "settlement_price",
+      "discount_rate",
+      "gift_remark",
+      "pic_url",
+      "is_deleted",
+      "create_time",
+      "update_time",
+      "remark"
+    ]
+  ],
+  "data": [
+    {
+      "gift_id": 10,
+      "gift_rule_id": 100000,
+      "name": "康佳(KONKA)净水器",
+      "model": "KUF-029",
+      "sale_price": 3980,
+      "settlement_price": 410,
+      "discount_rate": 0.103,
+      "gift_remark": "null",
+      "pic_url": "https://oss-public.fangdd.com/prod/jinyiyun/supplychain/Fq9rqgLiPqwalTxDAsFvCyTxsMyy.jpg?e=1610453133&token=qE9bPqVcqrjIEFEt6ghtRXa5LVNHMD2POg6XITtf:eDeOR_exJuAFZfD7jiuF0DG7E-A=",
+      "is_deleted": 0,
+      "create_time": "2021-01-12 19:48:59",
+      "update_time": "2021-01-12 19:48:59",
+      "remark": ""
+    },
+    {
+      "gift_id": 11,
+      "gift_rule_id": 100000,
+      "name": "康佳（KONKA）空气净化器",
+      "model": "KQ-JH69",
+      "sale_price": 2980,
+      "settlement_price": 463,
+      "discount_rate": 0.1554,
+      "gift_remark": "null",
+      "pic_url": "https://oss-public.fangdd.com/prod/jinyiyun/supplychain/FmJBgmoTMIHb3AATD0zbjI-ktnJj.jpg?e=1610453133&token=qE9bPqVcqrjIEFEt6ghtRXa5LVNHMD2POg6XITtf:5WnUgSF-JpfCbMHBh1khBYc6Ij8=",
+      "is_deleted": 0,
+      "create_time": "2021-01-12 19:48:59",
+      "update_time": "2021-01-12 19:48:59",
+      "remark": ""
+    },
+    {
+      "gift_id": 12,
+      "gift_rule_id": 100000,
+      "name": "康佳(KONKA)全自动智能吸尘器扫地机",
+      "model": "KGXC-801",
+      "sale_price": 3350,
+      "settlement_price": 407,
+      "discount_rate": 0.1215,
+      "gift_remark": "null",
+      "pic_url": "https://oss-public.fangdd.com/prod/jinyiyun/supplychain/Fl2eZTn5nl0G5HeunJ5wjarGQBzl.jpg?e=1610453133&token=qE9bPqVcqrjIEFEt6ghtRXa5LVNHMD2POg6XITtf:qkx7UP5k5XBJvSLdPxworEPa160=",
+      "is_deleted": 0,
+      "create_time": "2021-01-12 19:48:59",
+      "update_time": "2021-01-12 19:48:59",
+      "remark": ""
+    },
+    {
+      "gift_id": 13,
+      "gift_rule_id": 100000,
+      "name": "康佳金色暖阳 对流取暖器",
+      "model": "KGNF-1911A",
+      "sale_price": 2588,
+      "settlement_price": 307,
+      "discount_rate": 0.1186,
+      "gift_remark": "null",
+      "pic_url": "https://oss-public.fangdd.com/prod/jinyiyun/supplychain/Fne2YyvorDIfBaeu-0JxOSrvgNou.jpg?e=1610453133&token=qE9bPqVcqrjIEFEt6ghtRXa5LVNHMD2POg6XITtf:V9ZukbRqCMzY5vD7yLYVA86LtkA=",
+      "is_deleted": 0,
+      "create_time": "2021-01-12 19:48:59",
+      "update_time": "2021-01-12 19:48:59",
+      "remark": ""
+    }
+  ]
+}
